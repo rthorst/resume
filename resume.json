@@ -1,7 +1,7 @@
 {
 
     "meta" : {
-        "theme" : "elegant"
+        "theme" : "onepage"
     },
 
     
@@ -31,8 +31,29 @@
                 "username" : "rthorst",
                 "url" : "https://github.com/rthorst"
             }
-
-
         ]
-    }
+    },
+
+
+   "work" : [
+        {
+            "company" : "Emory University",
+            "position" : "PhD Researcher",
+            "startDate" : "2014-08-01",
+            "endDate" : "2019-12-20",
+            "summary" : "",
+            "highlights" : [
+                "Trained a convolutional neural network to distinguish 100,000s of pictures of objects and scenes using cues we are now comparing to the human brain (Cheng, Thorstad, & Dilks, in prep.).",
+                "Used classification (L2 logistic regression), clustering (DBSCAN), and dimensionality reduction (tSNE) to show that people's Reddit posts predict whether they have a mental illness (Paper: https://tinyurl.com/thorstad2019)",
+                "Deployed sentiment analysis and dynamic time warping to extract the emotional arc of personal narratives. We found that most stories follow one of six common culturally derived arcs. (Demo: https://tinyurl.com/narr-arcs)." 
+            ]
+        }
+    ],
+
+    "education" : [
+        {
+            "institution" : "University"
+        }
+    ]
+
 }

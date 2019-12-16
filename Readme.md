@@ -13,4 +13,7 @@ Instructions to export resume to PDF.
   Install themes.
   >>sudo npm install -g jsonresume-theme-onepage
 
+  Validate against JSON Resume Schema:
+  >> sudo pip install json-spec
+  >> json validate --schema-file=schema.json < data.json
 
