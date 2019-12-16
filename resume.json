@@ -45,7 +45,11 @@
             "highlights" : [
                 "Trained a convolutional neural network to distinguish 100,000s of pictures of objects and scenes using cues we are now comparing to the human brain (Cheng, Thorstad, & Dilks, in prep.).",
                 "Used classification (L2 logistic regression), clustering (DBSCAN), and dimensionality reduction (tSNE) to show that people's Reddit posts predict whether they have a mental illness (Paper: https://tinyurl.com/thorstad2019)",
-                "Deployed sentiment analysis and dynamic time warping to extract the emotional arc of personal narratives. We found that most stories follow one of six common culturally derived arcs. (Demo: https://tinyurl.com/narr-arcs)." 
+                "Deployed sentiment analysis and dynamic time warping to extract the emotional arc of personal narratives. We found that most stories follow one of six common culturally derived arcs. (Demo: https://tinyurl.com/narr-arcs).",
+                "Employed CoreNLP temporal reference tagging to show that the future thinking implicit in millions of tweets predicts people's real-world decisions (Paper: https://tinyurl.com/pnas2018, Press: https://tinyurl.com/pnascoverage).",
+                "Mentored 2 undergraduate students in a project using machine learning to predict people's decisions",
+                "Performed 15 hours statistical consulting for project using a mobile app intervention for eating disorders.",
+                "Publised 3 peer-reviewed articles and book chapters in top scientific outlets (PNAS), published 5 peer-reviewed conference papers, and won the Emory Research Catalyst Award."
             ]
         }
     ],
@@ -53,6 +57,42 @@
     "education" : [
         {
             "institution" : "University"
+        }
+    ],
+
+    "skills" : [
+        {
+            "name" : "Machine Learning",
+            "keywords" : [
+                "Natural language processing (word embeddings, topic modeling, sentiment analysis)",
+                "Deep learning (CNN, RNN)",
+                "Dimensionality reduction (tSNE, pPCA)",
+                "Clustering (DBSCAN, kmeans++)"
+            ]
+        },
+
+        {
+            "name" : "Programming Languages",
+            "keywords" : [
+                "Python (Tensorflow, scikit-learn, gensim, pandas, seaborn, numpy, bokeh, pysqlite)",
+                "SQL",
+                "R (ggplot, tidyr, dplyr)",
+                "SPSS",
+                "HTML",
+                "Java"
+            ]
+        },
+
+        {
+            "name" : "Analytic Skills",
+            "keywords" : [
+                "A/B testing",
+                "Experimental design",
+                "Multilevel modeling",
+                "Regression",
+                "ANOVA",
+                "Time Series Analysis"
+            ]
         }
     ]
 
