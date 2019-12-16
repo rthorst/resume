@@ -43,23 +43,29 @@
             "summary" : "",
             "highlights" : [
                 "Trained convolutional neural network to distinguish 100,000s of pictures of objects and scenes (Cheng, Thorstad, & Dilks, in prep.).",
-                "Used ridge regression, tSNE dimensionality reduction and DBSCAN clustering to show that people's Reddit posts predict whether they have a mental illness (Paper: https://tinyurl.com/thorstad2019)",
-                "Deployed sentiment analysis and dynamic time warping to extract the emotional arc of personal narratives. We found that most stories follow one of six common culturally derived arcs. (Demo: https://tinyurl.com/narr-arcs).",
-                "Mentored 2 undergraduate students, performed 15 hours statistical consulting, won Emory Research Catalyst Award, published 3 peer-reviwed journal papers and 5 peer-reviewed conference papers"
+                "Used L2-regression, tSNE dimensionality reduction and DBSCAN clustering to show that Reddit posts predict whether people have a mental illness (tinyurl.com/y3lhhec5).",
+                "Deployed sentiment analysis and dynamic time warping to show that most personal narratives follow one of six common culturally derived arcs. (tinyurl.com/narr-arcs).",
+                "Won Emory Research Catalyst Award, mentored 2 undergraduates, performed 15 hours statistical consulting, published 8 peer-reviewed journal and conference papers."
             ]
         },
 
 
         {
-            "company" : "Emory Digital Scholarship Center",
+            "company" : "Emory University",
             "position" : "Data Services Fellow",
             "startDate" : "2018-08-01",
             "endDate" : "2019-12-20",
             "highlights" : [
                 "Used R and SPSS to mentor students in acquiring and cleaning research data.",
-                "Led 3 workshops in Python programming and social media mining.",
-                "Used R to analyze over 10 million households of US census microdata"
+                "Led workshops on Python and social media mining (tinyurl.com/tc4wvfr).",
+                "Used R to analyze over 10 million households of US census microdata."
             ]
+        },
+
+        {
+            "company" : "Insight Data Science",
+            "position" : "Fellow",
+            "startDate" : "2020-01-13"
         }
 
     ],
@@ -71,7 +77,13 @@
             "studyType" : "PhD",
             "startDate" : "2014-08-19",
             "endDate" : "2018-12-20",
-            "courses" : ["Machine Learning", "Data Mining the Mind", "Minds, Brains, and Machines", "Regression", "ANOVA", "Multilevel Modeling"]
+            "courses" : [
+                "Machine Learning", 
+                "Data Mining the Mind",
+                "Multilevel Modeling",
+                "Regression",
+                "ANOVA"
+            ]
         }
     ],
 
