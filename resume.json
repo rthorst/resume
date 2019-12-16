@@ -3,6 +3,17 @@
     
     "basics" : {
         "name" : "Robert Thorstad",
-
+        "label" : "Data Scientist",
+        "picture" : "",
+        "email" : "thorstadrs@gmail.com",
+        "phone" : "(610) 348-6680",
+        "website" : "www.robertthorstad.com",
+        "location" : {
+            "address" : "1351 Oxford Rd",
+            "postalCode" : "GA 30307",
+            "city" : "Atlanta",
+            "countryCode" : "US",
+            "region" : "Georgia"
+        }
     }
 }
