@@ -1,5 +1,9 @@
 {
 
+    "meta" : {
+        "theme" : "onepage"
+    },
+
     
     "basics" : {
         "name" : "Robert Thorstad",
