@@ -8,7 +8,6 @@
     "basics" : {
         "name" : "Robert Thorstad",
         "label" : "Data Scientist",
-        "picture" : "",
         "email" : "thorstadrs@gmail.com",
         "phone" : "(610) 348-6680",
         "website" : "www.robertthorstad.com",
@@ -43,15 +42,26 @@
             "endDate" : "2019-12-20",
             "summary" : "",
             "highlights" : [
-                "Trained a convolutional neural network to distinguish 100,000s of pictures of objects and scenes using cues we are now comparing to the human brain (Cheng, Thorstad, & Dilks, in prep.).",
-                "Used classification (L2 logistic regression), clustering (DBSCAN), and dimensionality reduction (tSNE) to show that people's Reddit posts predict whether they have a mental illness (Paper: https://tinyurl.com/thorstad2019)",
+                "Trained convolutional neural network to distinguish 100,000s of pictures of objects and scenes (Cheng, Thorstad, & Dilks, in prep.).",
+                "Used ridge regression, tSNE dimensionality reduction and DBSCAN clustering to show that people's Reddit posts predict whether they have a mental illness (Paper: https://tinyurl.com/thorstad2019)",
                 "Deployed sentiment analysis and dynamic time warping to extract the emotional arc of personal narratives. We found that most stories follow one of six common culturally derived arcs. (Demo: https://tinyurl.com/narr-arcs).",
-                "Employed CoreNLP temporal reference tagging to show that the future thinking implicit in millions of tweets predicts people's real-world decisions (Paper: https://tinyurl.com/pnas2018, Press: https://tinyurl.com/pnascoverage).",
-                "Mentored 2 undergraduate students in a project using machine learning to predict people's decisions",
-                "Performed 15 hours statistical consulting for project using a mobile app intervention for eating disorders.",
-                "Publised 3 peer-reviewed articles and book chapters in top scientific outlets (PNAS), published 5 peer-reviewed conference papers, and won the Emory Research Catalyst Award."
+                "Mentored 2 undergraduate students, performed 15 hours statistical consulting, won Emory Research Catalyst Award, published 3 peer-reviwed journal papers and 5 peer-reviewed conference papers"
+            ]
+        },
+
+
+        {
+            "company" : "Emory Digital Scholarship Center",
+            "position" : "Data Services Fellow",
+            "startDate" : "2018-08-01",
+            "endDate" : "2019-12-20",
+            "highlights" : [
+                "Used R and SPSS to mentor students in acquiring and cleaning research data.",
+                "Led 3 workshops in Python programming and social media mining.",
+                "Used R to analyze over 10 million households of US census microdata"
             ]
         }
+
     ],
 
     "education" : [
