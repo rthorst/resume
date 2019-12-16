@@ -14,6 +14,21 @@
             "city" : "Atlanta",
             "countryCode" : "US",
             "region" : "Georgia"
-        }
+        },
+        "profiles" : [
+            {
+                "network" : "linkedin",
+                "username" : "robert-thorstad",
+                "url" : "https://www.linkedin.com/in/robert-thorstad/"
+            },
+
+            {
+                "network" : "github",
+                "username" : "rthorst",
+                "url" : "https://github.com/rthorst"
+            }
+
+
+        ]
     }
 }
