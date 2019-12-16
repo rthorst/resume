@@ -56,7 +56,12 @@
 
     "education" : [
         {
-            "institution" : "University"
+            "institution" : "Emory University",
+            "area" : "Cognitive Psychology",
+            "studyType" : "PhD",
+            "startDate" : "2014-08-19",
+            "endDate" : "2018-12-20",
+            "courses" : ["Machine Learning", "Data Mining the Mind", "Minds, Brains, and Machines", "Regression", "ANOVA", "Multilevel Modeling"]
         }
     ],
 
